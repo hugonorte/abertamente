@@ -1,0 +1,22 @@
+{
+  "name": "abertamente",
+  "version": "1.0.0",
+  "description": "projeto com grandes homens carecas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugonorte/abertamente.git"
+  },
+  "author": "Os Carecas da Unifeso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugonorte/abertamente/issues"
+  },
+  "homepage": "https://github.com/hugonorte/abertamente#readme",
+  "dependencies": {
+    "sass": "^1.70.0"
+  }
+}
